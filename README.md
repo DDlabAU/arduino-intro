@@ -9,7 +9,8 @@ Lav følgende tutorials i denne rækkefølge:
 2. [Blink](https://www.arduino.cc/en/Tutorial/Blink)
 3. [Fade](https://www.arduino.cc/en/Tutorial/Fade)
 4. [Analog Read Serial](https://www.arduino.cc/en/Tutorial/AnalogReadSerial)
-5. [Digital Read Serial](https://www.arduino.cc/en/Tutorial/DigitalReadSerial)   
+5. [Digital Read Serial](https://www.arduino.cc/en/Tutorial/DigitalReadSerial)      
+   
    
    
      
